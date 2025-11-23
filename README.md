@@ -42,7 +42,12 @@
     cd CPP3_BrickGame_v2.0
    ```
 
-3. **Сборка**
+2. **Сборка**
    ```bash
    make install
+   ```
+   
+3. **Запуск тестов**
+   ```bash
+   make test
    ```
